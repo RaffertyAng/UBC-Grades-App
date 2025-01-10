@@ -1,9 +1,6 @@
-# CPSC 310 Project Repository
+# CPSC 310 Project 
 
-This repository contains starter code for the class project.
-Please keep your repository private.
-
-For information about the project, autotest, and the checkpoints, see the course webpage.
+This is the final project for CPSC310 at UBC
 
 ## Configuring your environment
 
